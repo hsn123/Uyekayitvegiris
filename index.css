@@ -7,3 +7,64 @@
 	box-shadow: 5px 5px 5px #333;
 	border-radius:7px;
 }
+
+#div3
+{
+	background-image:url(resim/resim2.jpg);
+	width:200;
+	height:175;
+	margin-top:10;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:-510px;
+}
+#div4
+{
+	background-image:url(resim/resim3.jpg);
+	width:200;
+	height:175;
+	margin-top:-172;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:0px;
+}
+#div5
+{
+	background-image:url(resim/resim4.jpg);
+	width:200;
+	height:175;
+	margin-top:-175;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:500px;
+}
+#div6
+{
+	background-image:url(resim/resim5.jpg);
+	width:200;
+	height:175;
+	margin-top:20;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:-510px;
+}
+#div7
+{
+	background-image:url(resim/resim6.jpg);
+	width:200;
+	height:175;
+	margin-top:-172;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:0px;
+}
+#div8
+{
+	background-image:url(resim/resim7.jpg);
+	width:200;
+	height:175;
+	margin-top:-175;
+	box-shadow: 5px 5px 5px #333;
+	border-radius:7px;
+	margin-left:500px;
+}
