@@ -35,13 +35,10 @@ if(isset($_POST["ad"]) && ($_POST["soyad"]) && ($_POST["eposta"]) && ($_POST["si
 <input name="sifre" type="password" placeholder="şifre"/><br/><br/>
 <button type="submit" name="Kaydol">Kaydol</button>
 </form>
-
-
-
-
-
-
-
+ <hr>
+ 
+ Üyeliğiniz Varsa : 
+<button type="submit" name="giris" onclick="location.href='anaekran.php'">GİRİŞ</button>
 </div>
 </body>
 </center>

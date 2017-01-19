@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="sunman.css" >
+<link rel="stylesheet" href="index.css">
 </head>
 <body background="Resim/resim1.jpg">
 <center>
@@ -8,14 +8,11 @@
 
 
 ?>
-<div id="sunman">
-  <body> <br/>
-
+<div id="div2">
   <label>RESİM GALERİSİ</label><br/><br/>
-  
 <hr>
+
 </div>
 </body>
 </center>
-</body>
 </html>
